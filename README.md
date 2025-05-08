@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on building my CV
 - 🌱 I’m currently learning Digital Marketing at Turing College
-  
+  ![Badge Name](https://img.shields.io/badge/Label-Message-Color?style=for-the-badge&logo=icon&logoColor=white)
+  [Movie camera icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/movie-camera)
 <!--
 **Dainuze/Dainuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
