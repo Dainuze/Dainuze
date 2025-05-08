@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on building my CV
+- 🔭 I’m currently working on building my CV
 - 🌱 I’m currently learning Digital Marketing at Turing College
   
 <!--
