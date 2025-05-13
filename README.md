@@ -6,6 +6,9 @@
 | <p align="left">🎥 **About me 💬**<br><br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/searching.gif" width="300"> |
 |---|---|
 
+| <p align="left">🎥 **About me 💬**<br><br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/researching.gif" width="300"> |
+|---|---|
+
 <p align="left"><h3>About ME 💬 :</h3>
     <ul>
       <li>- I'm passionate about discovering patterns around me.</li>
