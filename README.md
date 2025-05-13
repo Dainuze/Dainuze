@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="200"> |
+| <p align="left">#🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
 
-| <p align="left">🎥 **About me 💬**<br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/searching.gif" width="300"> |
+| <p align="left">🎥 **About me 💬**<br><br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/searching.gif" width="300"> |
 |---|---|
 
 <p align="left"><h3>About ME 💬 :</h3>
@@ -12,7 +12,7 @@
       <li>- I find joy in uncovering insights through research.</li>
       <li>- I love experimenting with visuals and CSS tweaks.</li>
     </ul>
-  </p> | <img src="images/insights.gif" width="200">
+  </p> <img src="images/insights.gif" width="200">
 
 - 🔭 I’m currently exploring Digital Marketing & Analytics  on building my CV
 - 🌱 I’m currently learning Digital Marketing at Turing College
