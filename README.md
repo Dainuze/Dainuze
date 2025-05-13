@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/searching.gif" width="300"> |
+|---|---|
+
+| <p align="left">
+    <h3>About ME 💬 :</h3>
+    <ul>
+      <li>- I'm passionate about discovering patterns around me.</li>
+      <li>- I find joy in uncovering insights through research.</li>
+      <li>- I love experimenting with visuals and CSS tweaks.</li>
+    </ul>
+  </p> | <img src="images/searching.gif" width="300"> |
+|---|---|
+
 - 🔭 I’m currently exploring Digital Marketing & Analytics  on building my CV
 - 🌱 I’m currently learning Digital Marketing at Turing College
 
@@ -82,8 +95,7 @@ The process of asking questions, conducting thorough research, and uncovering me
 The process of asking questions, conducting thorough research things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="150" style="margin-left: 15px;">
 <!-- GitHub renders this table without visible borders -->
 
-| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/searching.gif" width="300"> |
-|---|---|
+
 
 
 ### Visuals & CSS Magic ✨
