@@ -71,6 +71,6 @@ The process of asking questions, conducting thorough research, and uncovering me
     </ul>
   </div>
 
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300px" style="margin-left: 20px; border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300px" style="margin-left: 20px; border-radius: 10px;" />
 </div>
 
