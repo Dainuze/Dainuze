@@ -76,14 +76,12 @@ The process of asking questions, conducting thorough research, and uncovering me
 
 ### Discovering Patterns 🔍
 
-<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="left" width="150" style="margin-right: 15px;"> I'm passionate about identifying underlying structures and connections in data, nature, and everyday life. The ability to recognize and analyze patterns is something I find deeply satisfying.
-
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="left" width="150" style="margin-right: 15px;"> I'm passionate about identifying underlying
 ### Research & Insights 💡
 
-The process of asking questions, conducting thorough research, and uncovering meaningful insights is a core driver for me. I enjoy the journey of seeking answers and understanding the "why" behind things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="150" style="margin-left: 15px;">
+The process of asking questions, conducting thorough research things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="150" style="margin-left: 15px;">
 
 ### Visuals & CSS Magic ✨
 
-I'm inspired by the power of visuals and the ability to shape them using CSS. The creative process of transforming ideas into tangible and engaging interfaces is something I find incredibly rewarding.
-
+I'm inspired by the power of visuals and the ability to shape them using CSS. 
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="200" style="margin-top: 20px;">
