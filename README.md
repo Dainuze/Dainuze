@@ -88,5 +88,5 @@ I'm inspired by the power of visuals and the ability to shape them using CSS.
 
 | Text | GIF |
 |------|-----|
-| This project demonstrates how text can overlay an image using HTML and CSS. | ![Demo GIF](images/demo.gif) |
+| This project demonstrates how text can overlay an image using HTML and CSS. | ![Demo GIF](images/searching.gif) |
 
