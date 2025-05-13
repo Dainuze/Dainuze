@@ -27,3 +27,16 @@
   </div>
   <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="180" />
 </div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div>
+    <h3>About ME 💬 :</h3>
+    <ul>
+      <li>- I'm passionate about discovering patterns around me.</li>
+      <li>- I find joy in uncovering insights through research.</li>
+      <li>- I love experimenting with visuals and CSS tweaks.</li>
+    </ul>
+  </div>
+
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200px" style="margin-left: 20px;" />
+</div>
