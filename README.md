@@ -51,3 +51,26 @@
 ### Research & Insights 💡
 
 The process of asking questions, conducting thorough research, and uncovering meaningful insights is a core driver for me. I enjoy the journey of seeking answers and understanding the "why" behind things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="100">
+
+<h2>Hey, [Your Name] here! 👋</h2>
+
+<h1>Welcome to my humble abode in the Digital World..</h1>
+
+<p>
+  There are 10 types of people in the world. Those who get Binary and those who don’t..
+</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h3>💡 Technologies I Love</h3>
+    <ul>
+      <li>Digital Marketing & Analytics</li>
+      <li>SEO & SEM</li>
+      <li>Data Visualization</li>
+      <li>Behavioral Psychology</li>
+    </ul>
+  </div>
+
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300px" style="margin-left: 20px; border-radius: 10px;" />
+</div>
+
