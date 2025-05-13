@@ -80,6 +80,11 @@ The process of asking questions, conducting thorough research, and uncovering me
 ### Research & Insights 💡
 
 The process of asking questions, conducting thorough research things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="150" style="margin-left: 15px;">
+<!-- GitHub renders this table without visible borders -->
+
+| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/searching.gif" width="300"> |
+|---|---|
+
 
 ### Visuals & CSS Magic ✨
 
