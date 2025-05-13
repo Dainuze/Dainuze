@@ -43,6 +43,9 @@
 
 ### Discovering Patterns 🔍
 
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="left" width="200" height="150" style="margin-right: 20px;"> I'm passionate about identifying underlying structures and connections in data, nature, and everyday life. The ability to recognize and analyze patterns is something I find deeply satisfying.
+### Discovering Patterns 🔍
+
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="left" width="100"> I'm passionate about identifying underlying structures and connections in data, nature, and everyday life. The ability to recognize and analyze patterns is something I find deeply satisfying.
 
 ### Research & Insights 💡
