@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/searching.gif" width="300"> |
+| <p align="left">🎥 **Demo**<br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
 
 | <p align="left">🎥 **About me 💬**<br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/searching.gif" width="300"> |
