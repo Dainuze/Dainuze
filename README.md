@@ -4,33 +4,26 @@
 - 🌱 I’m currently learning Digital Marketing at Turing College
 
 ### 🎯 What Drives Me
+ <!-- 1. Text left, GIF right -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; font-size: 16px;">
+    🔍 I’m passionate about discovering patterns in the data around me.
+  </div>
+  <img src="https://media.giphy.com/media/xUOwGcv1H2LsZ7P0Gk/giphy.gif" width="120" style="margin-left: 15px;" />
+</div>
 
-🔍 **Passionate about discovering patterns**  
-![patterns](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+<!-- 2. Text right, GIF left -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" style="margin-right: 15px;" />
+  <div style="flex: 1; font-size: 16px; text-align: right;">
+    🧠 I love digging to the root of the problem and figuring out *why*.
+  </div>
+</div>
 
-🧠 **Drawn to finding answers through research and insights**  
-![research](https://media.giphy.com/media/xUOwGcv1H2LsZ7P0Gk/giphy.gif)
-
-🎨 **Inspired by visuals and the magic of transforming them with CSS**  
-![css-magic](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif)
-
-🪓 **Love digging to the root of a problem — deeper, always deeper**  
-![digging](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-🌿 **Driven by curiosity, empathy, and creativity**  
-![curiosity](https://media.giphy.com/media/l0HlUQfS9k4ewb2dy/giphy.gif)
-
-  
-**Dainuze/Dainuze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 3. Text top, GIF bottom with spacing -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <div style="font-size: 16px; margin-bottom: 10px;">
+    🎨 I’m inspired by visuals — and I love tweaking them with CSS.
+  </div>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="180" />
+</div>
