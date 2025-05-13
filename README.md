@@ -43,8 +43,8 @@
 
 ### Discovering Patterns 🔍
 
-<img src="link/to/your/patterns.gif" align="left" width="100"> I'm passionate about identifying underlying structures and connections in data, nature, and everyday life. The ability to recognize and analyze patterns is something I find deeply satisfying.
+<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="left" width="100"> I'm passionate about identifying underlying structures and connections in data, nature, and everyday life. The ability to recognize and analyze patterns is something I find deeply satisfying.
 
 ### Research & Insights 💡
 
-The process of asking questions, conducting thorough research, and uncovering meaningful insights is a core driver for me. I enjoy the journey of seeking answers and understanding the "why" behind things. <img src="link/to/your/research.gif" align="right" width="100">
+The process of asking questions, conducting thorough research, and uncovering meaningful insights is a core driver for me. I enjoy the journey of seeking answers and understanding the "why" behind things. <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" align="right" width="100">
