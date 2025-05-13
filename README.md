@@ -85,3 +85,8 @@ The process of asking questions, conducting thorough research things. <img src="
 
 I'm inspired by the power of visuals and the ability to shape them using CSS. 
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="200" style="margin-top: 20px;">
+
+| Text | GIF |
+|------|-----|
+| This project demonstrates how text can overlay an image using HTML and CSS. | ![Demo GIF](images/demo.gif) |
+
