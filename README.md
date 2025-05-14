@@ -9,6 +9,8 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
 
 ## 🌟 What drives me
 
+<span style="font-family: 'Roboto', sans-serif;">This text might be in Arial.</span>
+
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
   <ul style="list-style-type: disc;">
     <li>Passionate about discovering patterns around me.</li>
