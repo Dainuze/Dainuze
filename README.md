@@ -1,5 +1,24 @@
 # Hi there 👋
 
+# My Profile
+
+...
+
+### My Interests
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+  <ul style="list-style-type: disc; margin-right: 20px;">
+    <li>Passionate about discovering patterns around me.</li>
+    <li>Drawn to finding answers through research and insights.</li>
+    <li>Inspired by visuals and the ability to change them through CSS.</li>
+    <li>Love digging to the roots of the problem.</li>
+    <li>... and more!</li>
+  </ul>
+  <img src="images/patterns.gif" width="200" alt="Animated GIF of interests">
+</div>
+
+...
+
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <!-- First column: text -->
