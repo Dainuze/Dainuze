@@ -3,6 +3,7 @@
  ## 🌟 What drives me                                                                                                                                                                                                                                                                                                                 |                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | <ul style="list-style-type: disc;"> <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
+|---|---|
 
 
 
