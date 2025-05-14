@@ -1,6 +1,9 @@
 # Hi there! 👋 You've stumbled upon the digital space of Daina                                                                                                                                                                                                                                                                                                          
+| <p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"><br><p align="left">Passionate about discovering patterns around me</p><br><div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"><br><p align="left">Drawn to finding answers through research and insights</p> | <div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"><br><p align="left">Inspired by visuals and the ability to change them through CSS</p><br><img src="images/searching.gif" width="300" alt="Small Demo 2"></div> |
+|---|---|---|
 
-| <p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"><br><p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p><br><div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"> | <div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"><br><img src="images/searching.gif" width="300" alt="Small Demo 2"></div> |
+
+| <p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"><br><div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"> | <div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"><br><img src="images/searching.gif" width="300" alt="Small Demo 2"></div> |
 |---|---|---|
 
 
