@@ -1,5 +1,29 @@
 # Hi there 👋
 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- First column: text -->
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <h2>🎥 Demo</h2>
+      <p>1. First line<br>
+         2. Second line<br>
+         3. Third line</p>
+    </td>
+
+    <!-- Second column: one larger GIF -->
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <img src="images/patterns.gif" width="300" alt="Demo 1">
+    </td>
+
+    <!-- Third column: two smaller GIFs stacked -->
+    <td style="border: none; vertical-align: top;">
+      <img src="images/researching.gif" width="150" alt="Small Demo 1"><br>
+      <img src="images/searching.gif" width="150" alt="Small Demo 2">
+    </td>
+  </tr>
+</table>
+
+
 | <p align="left"><span style="font-size: 24px;">🎥 **Demo**<br><br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
 
