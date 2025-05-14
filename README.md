@@ -30,6 +30,10 @@ I’m a **creative thinker** with a love for **psychology**, **poetry**, and **d
 - 🧠 Curiosity – always learning, always exploring  
 - 💬 Empathy – people and their behavior truly fascinate me  
 - 🚀 Growth – professionally, personally, and technically
+<div align="right">
+  <img src="images/patterns.gif" alt="Centered Animation" width="200">
+</div>
+
 
 ## 💼 What I do
 - 🌐 Build and optimize websites (WordPress, HTML/CSS, SEO-first approach)  
