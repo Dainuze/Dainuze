@@ -3,7 +3,7 @@
 |---|---|---|
 
 
-| <p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p> | <div align="center"><img src="images/patterns.gif" width="300" alt="Demo 1"></div><br><div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"></div> | <div align="center"><img src="images/researching.gif" width="300" alt="Small Demo 1"></div><br><div align="center"><img src="images/searching.gif" width="300" alt="Small Demo 2"></div> |
+| <p align="left">*Digital marketing field explorer with lenses on analytics and SEO*</p> | <div align="right"><img src="images/patterns.gif" width="300" alt="Demo 1"></div><br><div align="right"><img src="images/researching.gif" width="300" alt="Small Demo 1"></div> | <div align="left"><img src="images/researching.gif" width="300" alt="Small Demo 1"></div><br><div align="left"><img src="images/searching.gif" width="300" alt="Small Demo 2"></div> |
 |---|---|---|
 
 
