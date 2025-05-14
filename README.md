@@ -1,14 +1,10 @@
-# Hi there 👋 You've stumbled upon the digital space of Daina
+# Hi there! 👋 You've stumbled upon the digital space of Daina
 
   
 I’m particularly interested in the power of **Marketing Data Analysis** and the art of **Search Engine Optimization (SEO)**.
 
-| <ul style="list-style-type: disc;">❤️ What drives me <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
-|---|---|
-
-| Interests                                                                                                                                                                                                                                                                                                                         | Demo                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| <ul style="list-style-type: disc;"> <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
+| <ul style="list-style-type: disc;"> ❤️ What drives me <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
 
 | <p align="left"><h2>❤️ What drives me</h2>Passionate about discovering patterns around me.<br>Drawn to finding answers through research and insights.<br>Inspired by visuals and the ability to change them through CSS.<br>Love digging to the roots of the problem.</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
 |---|---|---|
