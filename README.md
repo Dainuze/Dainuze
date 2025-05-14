@@ -1,7 +1,11 @@
 # Hi there 👋 You've stumbled upon the digital space of Daina
 
-Welcome to my GitHub profile 🌍  
+  
 I’m particularly interested in the power of **Marketing Data Analysis** and the art of **Search Engine Optimization (SEO)**.
+
+
+| <p align="left"><h2>❤️ What drives me</h2>Passionate about discovering patterns around me.<br>Drawn to finding answers through research and insights.<br>Inspired by visuals and the ability to change them through CSS.<br>Love digging to the roots of the problem.</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
+|---|---|---|
 
 ## 🌟 What drives me
 
@@ -26,8 +30,7 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
 | <p align="left">🎥 **About me 💬**<br><br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/researching.gif" width="300"> |
 |---|---|
 
-| <p align="left"><h2>❤️ What drives me</h2>- Particularly interested in Marketing Data Analysis and SEO<br>- Obsessed with behavioral patterns<br>- Drawn to research<br>- Inspired by insights finding<br>- Digging to the roots of the problem</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
-|---|---|---|
+
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
