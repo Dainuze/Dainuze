@@ -1,11 +1,9 @@
-# Hi there 👋
+# Hi there 👋 You've stumbled upon the digital space of Daina
 
-<div align="right">
-  <img src="images/researching.gif" alt="Centered Animation" width="400">
-</div>
+Welcome to my GitHub profile 🌍  
+I’m particularly interested in the power of **Marketing Data Analysis** and the art of **Search Engine Optimization (SEO)**.
 
-...
-### My Interests
+## 🌟 What drives me
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
   <ul style="list-style-type: disc;">
@@ -15,72 +13,9 @@
     <li>Love digging to the roots of the problem.</li>
     <li>... and more!</li>
   </ul>
-  <img src="images/patterns.gif" width="200" alt="Animated GIF of interests">
+  <div align="right">
+  <img src="images/researching.gif" alt="Centered Animation" width="400">
 </div>
-### My Interests
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
-  <ul style="list-style-type: disc; margin-right: 20px;">
-    <li>Passionate about discovering patterns around me.</li>
-    <li>Drawn to finding answers through research and insights.</li>
-    <li>Inspired by visuals and the ability to change them through CSS.</li>
-    <li>Love digging to the roots of the problem.</li>
-    <li>... and more!</li>
-  </ul>
-  <img src="images/patterns.gif" width="200" alt="Animated GIF of interests">
-</div>
-
-...
-
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- First column: text -->
-    <td valign="top" width="33%" style="padding-right:20px;">
-      <h2>🎥 Demo</h2>
-      <p>
-        1. First line<br>
-        2. Second line<br>
-        3. Third line
-      </p>
-    </td>
-
-    <!-- Second column: one larger GIF -->
-    <td valign="top" width="33%" style="padding-right:20px;">
-      <img src="images/patterns.gif" width="300" alt="Demo 1">
-    </td>
-
-    <!-- Third column: two smaller GIFs stacked -->
-    <td valign="top" width="33%">
-      <img src="images/patterns.gif" width="150" alt="Small Demo 1"><br>
-      <img src="images/patterns.gif" width="150" alt="Small Demo 2">
-    </td>
-  </tr>
-</table>
-
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <!-- First column: text -->
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <h2>🎥 Demo</h2>
-      <p>1. First line<br>
-         2. Second line<br>
-         3. Third line</p>
-    </td>
-
-    <!-- Second column: one larger GIF -->
-    <td style="border: none; vertical-align: top; padding-right: 20px;">
-      <img src="images/patterns.gif" width="300" alt="Demo 1">
-    </td>
-
-    <!-- Third column: two smaller GIFs stacked -->
-    <td style="border: none; vertical-align: top;">
-      <img src="images/researching.gif" width="150" alt="Small Demo 1"><br>
-      <img src="images/searching.gif" width="150" alt="Small Demo 2">
-    </td>
-  </tr>
-</table>
-
 
 | <p align="left"><span style="font-size: 24px;">🎥 **Demo**<br><br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
