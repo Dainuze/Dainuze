@@ -1,13 +1,7 @@
 # Hi there 👋
 
-
-# My Profile
-
-|---|---|---|
-| Some text | <div align="center"><img src="images/patterns.gif" alt="Centered Image" width="400"></div> | More text |
-
 <div align="center">
-  <img src="images/patterns.gif" alt="Centered Animation" width="400">
+  <img src="images/researching.gif" alt="Centered Animation" width="600">
 </div>
 
 ...
