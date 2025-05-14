@@ -3,6 +3,16 @@
   
 I’m particularly interested in the power of **Marketing Data Analysis** and the art of **Search Engine Optimization (SEO)**.
 
+| <ul style=\"list-style-type: disc;\">
+  <li>Passionate about discovering patterns around me.</li>
+  <li>Drawn to finding answers through research and insights.</li>
+  <li>Inspired by visuals and the ability to change them through CSS.</li>
+  <li>Love digging to the roots of the problem.</li>
+  <li>... and more!</li>
+</ul> | <img src=\"images/patterns.gif\" width=\"300\" alt=\"Demo 1\"> |
+|---|---|
+
+
 | Interests                                                                                                                                                                                                                                                                                                                         | Demo                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | <ul style="list-style-type: disc;"> <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
@@ -19,6 +29,34 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
 
 | <p align="left"><h2>❤️ What drives me</h2>Passionate about discovering patterns around me.<br>Drawn to finding answers through research and insights.<br>Inspired by visuals and the ability to change them through CSS.<br>Love digging to the roots of the problem.</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
 |---|---|---|
+
+# 👋 Hi there, I’m [Your Name]!
+
+Welcome to my GitHub profile 🌍  
+I’m a **creative thinker** with a love for **psychology**, **poetry**, and **digital strategy**.
+
+## 🌟 What drives me
+- 🎨 Creativity – from designing pages to writing thoughtful poems  
+- 📊 Analytical mindset – fueled by data, insights, and optimization  
+- 🧠 Curiosity – always learning, always exploring  
+- 💬 Empathy – people and their behavior truly fascinate me  
+- 🚀 Growth – professionally, personally, and technically
+
+## 💼 What I do
+- 🌐 Build and optimize websites (WordPress, HTML/CSS, SEO-first approach)  
+- 📈 Study digital marketing, data analysis, and user experience  
+- ✍️ Write content – including psychology-based articles and poetry  
+- 📚 Constantly leveling up (currently at Turing College 🧑‍🎓)
+
+## 📫 Let’s connect!
+Feel free to reach out, collaborate, or just say hi!  
+📩 [your.email@example.com]  
+🌐 [yourwebsite.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+🔧 *Always building. Always evolving.*
 
 ## 🌟 What drives me
 
