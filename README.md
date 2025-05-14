@@ -2,7 +2,10 @@
 
 
 # My Profile
-
+| Left Column | Center Column | Right Column |
+|---|---|---|
+| Some text | <div align="center"><img src="images/patterns.gif" alt="Centered Image" width="150"></div> | More text |
+| Another row | More content | Even more |
 ...
 ### My Interests
 
