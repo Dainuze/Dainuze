@@ -19,10 +19,11 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
     <li>Love digging to the roots of the problem.</li>
     <li>... and more!</li>
   </ul>
-  <div align="right">
-  <img src="images/researching.gif" alt="Centered Animation" width="400">
-</div> |<img src="images/patterns.gif" width="300" alt="Demo 1"> |
+</div> | <img src="images/patterns.gif" width="300" alt="Demo 1"> |
 |---|---|
+
+<div align="right">
+  <img src="images/researching.gif" alt="Centered Animation" width="400">
 
 | <p align="left"><span style="font-size: 24px;">🎥 **Demo**<br><br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
