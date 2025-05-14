@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="center">
+<div align="right">
   <img src="images/researching.gif" alt="Centered Animation" width="400">
 </div>
 
