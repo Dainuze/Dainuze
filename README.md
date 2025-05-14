@@ -11,7 +11,7 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
 
 <span style="font-family: 'Roboto', sans-serif;">This text might be in Arial.</span>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
+| <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
   <ul style="list-style-type: disc;">
     <li>Passionate about discovering patterns around me.</li>
     <li>Drawn to finding answers through research and insights.</li>
@@ -21,7 +21,8 @@ I’m particularly interested in the power of **Marketing Data Analysis** and th
   </ul>
   <div align="right">
   <img src="images/researching.gif" alt="Centered Animation" width="400">
-</div>
+</div> |<img src="images/patterns.gif" width="300" alt="Demo 1"> |
+|---|---|
 
 | <p align="left"><span style="font-size: 24px;">🎥 **Demo**<br><br>This project demonstrates how text can overlay an image using HTML and CSS.</p> | <img src="images/patterns.gif" width="300"> |
 |---|---|
