@@ -59,7 +59,7 @@
 | <p align="left">🎥 **About me 💬**<br><br>I'm passionate about discovering patterns around me.<br>I find joy in uncovering insights through research.<br>I love experimenting with visuals and CSS tweaks.<br>I'm passionate about discovering patterns around me.</p> | <img src="images/researching.gif" width="300"> |
 |---|---|
 
-| <p align="left"><h2>🎥 Demo</h2>1. First line<br>2. Second line<br>3. Third line</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
+| <p align="left"><h2>❤️ What drives me</h2>- Particularly interested in Marketing Data Analysis and SEO<br>- Obsessed with behavioral patterns<br>- Drawn to research<br>- Inspired by insights finding<br>- Digging to the roots of the problem</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
 |---|---|---|
 
 <table style="border-collapse: collapse; width: 100%;">
