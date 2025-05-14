@@ -12,6 +12,29 @@
 | <p align="left"><h2>🎥 Demo</h2>1. First line<br>2. Second line<br>3. Third line</p> | <img src="images/patterns.gif" width="300" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
 |---|---|---|
 
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- First column: text -->
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <h2>🎥 Demo</h2>
+      <p>1. First line<br>
+         2. Second line<br>
+         3. Third line</p>
+    </td>
+
+    <!-- Second column: one larger GIF -->
+    <td style="border: none; vertical-align: top; padding-right: 20px;">
+      <img src="images/demo1.gif" width="300" alt="Demo 1">
+    </td>
+
+    <!-- Third column: two smaller GIFs stacked -->
+    <td style="border: none; vertical-align: top;">
+      <img src="images/demo2.gif" width="150" alt="Small Demo 1"><br>
+      <img src="images/demo3.gif" width="150" alt="Small Demo 2">
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"><h3>About ME 💬 :</h3>
     <ul>
