@@ -14,7 +14,7 @@
     <li>Love digging to the roots of the problem.</li>
     <li>... and more!</li>
   </ul>
-  <img src="images/my_interest.gif" width="200" alt="Animated GIF of interests">
+  <img src="images/patterns.gif" width="200" alt="Animated GIF of interests">
 </div>
 ### My Interests
 
