@@ -1,6 +1,6 @@
 # Hi there! 👋 You've stumbled upon the digital space of Daina                                                                                                                                                                                                                                                                                                          
 
-| <p align="left">Digital marketing field digger with lenses on analytics and SEO</p> | <img src="images/patterns.gif" width="100" alt="Demo 1"><br><div align="center"><img src="images/researching.gif" width="200" alt="Small Demo 1"> | <div align="center"><img src="images/researching.gif" width="250" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
+| <p align="left">Digital marketing field digger with lenses on analytics and SEO</p> | <img src="images/patterns.gif" width="200" alt="Demo 1"><br><div align="center"><img src="images/researching.gif" width="200" alt="Small Demo 1"> | <div align="center"><img src="images/researching.gif" width="200" alt="Small Demo 1"><br><img src="images/searching.gif" width="200" alt="Small Demo 2"></div> |
 |---|---|---|
 
 
