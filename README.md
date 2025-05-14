@@ -1,12 +1,14 @@
 # Hi there! 👋 You've stumbled upon the digital space of Daina                                                                                                                                                                                                                                                                                                          
 
+| <p align="left"><h2>❤️ What drives me</h2>Passionate about discovering patterns around me.<br>Drawn to finding answers through research and insights.<br>Inspired by visuals and the ability to change them through CSS.<br>Love digging to the roots of the problem.<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/daina-siauciulyte-38a14269/)<br>[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github)](https://dainuze.github.io/daina-cv)</p> | <img src="images/patterns.gif" width="200" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
+|---|---|---|
+
+
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/daina-siauciulyte-38a14269/)                                                                                                                                                                                                                                                                                                                       | [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github)](https://dainuze.github.io/daina-cv)                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | <ul style="list-style-type: disc;"> <li>Passionate about discovering patterns around me.</li> <li>Drawn to finding answers through research and insights.</li> <li>Inspired by visuals and the ability to change them through CSS.</li> <li>Love digging to the roots of the problem.</li> <li>... and more!</li> </ul> | <img src="images/researching.gif" width="300" alt="Demo 1"> |
 
 
-| <p align="left"><h2>❤️ What drives me</h2>Passionate about discovering patterns around me.<br>Drawn to finding answers through research and insights.<br>Inspired by visuals and the ability to change them through CSS.<br>Love digging to the roots of the problem.</p> | <img src="images/patterns.gif" width="200" alt="Demo 1"> | <div align="center"><img src="images/researching.gif" width="150" alt="Small Demo 1"><br><img src="images/searching.gif" width="150" alt="Small Demo 2"></div> |
-|---|---|---|
 
 # 👋 Hi there, I’m [Your Name]!
 
