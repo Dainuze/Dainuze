@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="images/researching.gif" alt="Centered Animation" width="600">
+  <img src="images/researching.gif" alt="Centered Animation" width="400">
 </div>
 
 ...
